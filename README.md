@@ -1,7 +1,6 @@
 # Instagram Brute Force Premium - From Indonesia
 ![Premium](https://github.com/user-attachments/assets/893c14d0-dfca-4a4b-b778-ee5f238edc34)
 
-![Author Badge](https://img.shields.io/badge/Author-Rozhak-blue?style=flat-square&logo=github)
 ![Python Badge](https://img.shields.io/badge/Written%20In-Python-yellow?style=flat-square&logo=python)
 ![Open Source Badge](https://img.shields.io/badge/Open%20Source-No-red?style=flat-square&logo=open-source-initiative)
 
